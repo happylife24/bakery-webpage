@@ -1,6 +1,6 @@
 body {
     margin-left: 0px;
-    background-color:purple;
+    background-color: purple;
 }
 
 
@@ -27,7 +27,7 @@ body {
 
 .nav-link {
     text-decoration: none;
-    color:white;
+    color: white;
     font-family: cursive;
 }
 
@@ -39,4 +39,10 @@ body {
     margin-left: 260px;
     padding-left: 50px;
     padding-right: 25px;
+}
+
+@media(max-width:700px) {
+    #main-doc {
+        background-color: black;
+    }
 }
