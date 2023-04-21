@@ -41,8 +41,8 @@ body {
     padding-right: 25px;
 }
 
-@media(max-width:700px) {
-    #main-doc {
+@media screen and (max-width: 800px) {
+    body {
         background-color: black;
     }
 }
