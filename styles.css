@@ -1,1 +1,20 @@
-nav {border-right: 1px;}
+body {
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+
+#navbar {
+    border-right: 5px solid yellow;
+    margin-right: 60%;  
+}
+
+#head {
+border-bottom: 2px solid yellow;
+text-align: center;
+font-size:xx-large;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+
+
