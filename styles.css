@@ -41,8 +41,10 @@ body {
     padding-right: 25px;
 }
 
-@media screen and (max-width: 800px) {
+
+
+@media(max-width: 600px) {
     body {
-        background-color: black;
-    }
+        background-color:black
+    }   
 }
