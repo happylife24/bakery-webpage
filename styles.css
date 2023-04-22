@@ -7,9 +7,14 @@ body {
 #navbar {
     position: fixed;
     list-style-type: none;
-    line-height: 2.5;
+    line-height: 2.2;
     text-align: center;
     color: white;
+}
+
+
+img {width: 20%;
+    margin-top: 0;  
 }
 
 
@@ -19,7 +24,7 @@ body {
     font-size: 172%;
     color: salmon;
     font-family: cursive;
-    padding-bottom: 20px;
+    margin-top: 0; 
     padding-left: 20px;
     padding-right: 20px;
 }
