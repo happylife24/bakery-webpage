@@ -1,4 +1,4 @@
-# technical-documentation-page
+# A bakery webpage with technical-documentation-page
 
 
-I created a Bakery homepage functionally with Html and CSS.
+I created a Bakery webpage functionally with Html and CSS.
