@@ -38,7 +38,6 @@ img {
 }
 
 
-
 #main-doc {
     border-left: 5px solid salmon;
     color: white;
@@ -46,7 +45,6 @@ img {
     padding-left: 50px;
     padding-right: 25px;
 }
-
 
 
 @media(max-width: 600px) {
