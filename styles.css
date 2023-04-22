@@ -5,6 +5,9 @@ body {
 
 
 #navbar {
+    border-top: 5px solid salmon;
+    border-left: 6px solid salmon;
+    border-right: 6px solid salmon;
     position: fixed;
     list-style-type: none;
     line-height: 2.2;
@@ -20,7 +23,7 @@ img {
 
 
 #head {
-    border-bottom: 10px double salmon;
+    border-bottom: 10px double salmon;;
     text-align: center;
     font-size: 172%;
     color: salmon;
@@ -39,15 +42,15 @@ img {
 
 
 #main-doc {
-    border-left: 10px double salmon;
     color: white;
-    margin-left: 260px;
+    margin-left: 265px;
     padding-left: 50px;
     padding-right: 25px;
 }
 
 
-@media(max-width: 600px) {
+@media(max-width: 600px) 
+{
     body {
         background-color: black
     }
