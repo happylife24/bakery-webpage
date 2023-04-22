@@ -1,4 +1,4 @@
 # technical-documentation-page
 
 
-I created an app page functionally with Html and CSS.
+I created Bakery homepage functionally with Html and CSS.
