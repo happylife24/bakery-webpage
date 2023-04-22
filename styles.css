@@ -20,7 +20,7 @@ img {
 
 
 #head {
-    border-bottom: 5px solid salmon;
+    border-bottom: 10px double salmon;
     text-align: center;
     font-size: 172%;
     color: salmon;
@@ -39,7 +39,7 @@ img {
 
 
 #main-doc {
-    border-left: 5px solid salmon;
+    border-left: 10px double salmon;
     color: white;
     margin-left: 260px;
     padding-left: 50px;
