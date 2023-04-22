@@ -8,9 +8,10 @@ body {
     border-top: 5px solid salmon;
     border-left: 6px solid salmon;
     border-right: 6px solid salmon;
+    border-bottom: 5px solid salmon;
     position: fixed;
     list-style-type: none;
-    line-height: 2.2;
+    line-height: 2.1;
     text-align: center;
     color: white;
 }
@@ -23,7 +24,7 @@ img {
 
 
 #head {
-    border-bottom: 10px double salmon;;
+    border-bottom: 10px double salmon;
     text-align: center;
     font-size: 172%;
     color: salmon;
