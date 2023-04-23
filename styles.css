@@ -54,4 +54,29 @@ img {
     body {
         background-color: black
     }
+    #navbar {
+        border-top: 5px solid salmon;
+        border-left: 6px solid salmon;
+        border-right: 6px solid salmon;
+        border-bottom: 5px solid salmon;
+        position: fixed;
+        list-style-type: none;
+        line-height: 2.1;
+        text-align: left;
+        color: white;
+    }
+    img {
+        width: 20%;
+        padding-top: 8px;
+    }
+    #head {
+        border-bottom: 10px double salmon;
+        text-align: left;
+        font-size: 90%;
+        color: salmon;
+        font-family: cursive;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+   
 }
