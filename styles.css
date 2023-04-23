@@ -64,6 +64,7 @@ img {
         line-height: 2.1;
         text-align: left;
         color: white;
+        width: 125px;
     }
     img {
         width: 20%;
@@ -78,5 +79,4 @@ img {
         padding-left: 0px;
         padding-right: 0px;
     }
-   
 }
