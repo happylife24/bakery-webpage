@@ -44,7 +44,7 @@ img {
 
 #main-doc {
     color: white;
-    margin-left: 265px;
+    margin-left: 285px;
     padding-left: 50px;
     padding-right: 25px;
 }
@@ -56,13 +56,14 @@ img {
     }
     #navbar {
         border-top: 5px solid salmon;
+        border-bottom: 5px solid salmon;
         border-left: 6px solid salmon;
         border-right: 6px solid salmon;
-        border-bottom: 5px solid salmon;
         position: fixed;
         list-style-type: none;
         line-height: 2.1;
         text-align: left;
+        font-size: 80%;
         color: white;
         width: 125px;
     }
@@ -73,10 +74,16 @@ img {
     #head {
         border-bottom: 10px double salmon;
         text-align: left;
-        font-size: 90%;
+        font-size: 120%;
         color: salmon;
         font-family: cursive;
         padding-left: 0px;
         padding-right: 0px;
+    }
+    #main-doc {
+        color: white;
+        margin-left: 150px;
+        padding-right: 10px;
+        padding-left: 10px;
     }
 }
