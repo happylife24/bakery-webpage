@@ -50,6 +50,7 @@ img {
 }
 
 
+
 @media(max-width: 600px) {
     body {
         background-color: black
@@ -76,10 +77,14 @@ img {
         text-align: left;
         font-size: 120%;
         color: salmon;
-        font-family: cursive;
         padding-left: 0px;
         padding-right: 0px;
     }
+
+    .nav-link {
+        font-family: serif;
+    }
+
     #main-doc {
         color: white;
         margin-left: 150px;
