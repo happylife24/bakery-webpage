@@ -1,10 +1,10 @@
-# bakery webpage like a technical documentation page
+# BAKERY WEBPAGE like a TECHNICAL DOCUMENTATION PAGE
 Link: 
 <a href="https://2021sky.github.io/bakery-webpage/" target="_blank"> https://2021sky.github.io/bakery-webpage/ </a>
 <br>
 <br>
 <br>
-Created with:
+Languages:
 <br>
    <ul>
      <li>HTML</li>
