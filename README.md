@@ -1,4 +1,4 @@
-# BAKERY WEBPAGE like a TECHNICAL DOCUMENTATION PAGE
+# BAKERY WEBSITE like TECHNICAL DOCUMENTATION PAGES
 Link: 
 <a href="https://2021sky.github.io/bakery-webpage/" target="_blank"> https://2021sky.github.io/bakery-webpage/ </a>
 <br>
