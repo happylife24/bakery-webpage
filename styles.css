@@ -4,51 +4,60 @@ body {
 }
 
 
-#navbar {
+#navbar {   
     border-top: 5px solid salmon;
     border-left: 6px solid salmon;
     border-right: 6px solid salmon;
     border-bottom: 5px solid salmon;
-    position: fixed;
-    list-style-type: none;
-    line-height: 2.1;
-    text-align: center;
     color: white;
+    list-style-type: none;
+    line-height: 2.8;
+    position: fixed;
+    text-align: center;
+    width: 160px;
 }
 
 
 img {
     width: 20%;
     padding-top: 8px;
+    margin-bottom: 0px;
 }
 
 
 #head {
     border-bottom: 10px double salmon;
-    text-align: center;
-    font-size: 150%;
+    font-size: 23px;
     color: salmon;
     font-family: cursive;
-    margin-top: 0;
-    padding-left: 20px;
-    padding-right: 20px;
+    margin-top: 0px;
 }
 
 
-.nav-link {
-    text-decoration: none;
+.nav-link {  
     color: white;
+    font-size: 25px;
     font-family: cursive;
+    text-decoration: none;   
 }
 
 
 #main-doc {
-    color: white;
-    margin-left: 285px;
+    color: white;   
     padding-left: 50px;
     padding-right: 25px;
+    margin-left: 190px;
 }
 
+
+h2 {
+    padding-top: 30px;
+}
+
+
+p {
+    font-size: 30px;
+}
 
 
 @media(max-width: 600px) {
