@@ -64,6 +64,7 @@ p {
     body {
         background-color: black
     }
+
     #navbar {
         border-top: 5px solid salmon;
         border-bottom: 5px solid salmon;
@@ -77,10 +78,12 @@ p {
         color: white;
         width: 125px;
     }
+
     img {
         width: 20%;
         padding-top: 8px;
     }
+    
     #head {
         border-bottom: 10px double salmon;
         text-align: left;
