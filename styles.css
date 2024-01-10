@@ -29,7 +29,7 @@ img {
     border-bottom: 10px double rgb(239, 161, 152);
     font-size: 23px;
     color: rgb(239, 161, 152);
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     margin-top: 0px;
 }
 
@@ -37,7 +37,7 @@ img {
 .nav-link {  
     color: rgb(239, 161, 152);
     font-size: 25px;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;   
 }
 
@@ -86,10 +86,6 @@ p, #space {
         font-size: 120%;
         padding-left: 0px;
         padding-right: 0px;
-    }
-
-    .nav-link {
-        font-family: serif;
     }
 
     #main-doc {
