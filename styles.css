@@ -1,14 +1,14 @@
 body {
     margin-left: 0px;
-    background-color: purple;
+    background: linear-gradient(to right, rgb(103, 3, 103), rgb(239, 75, 75), rgb(242, 131, 242));
 }
 
 
 #navbar {   
-    border-top: 5px solid salmon;
-    border-left: 6px solid salmon;
-    border-right: 6px solid salmon;
-    border-bottom: 5px solid salmon;
+    border-top: 5px solid rgb(239, 161, 152);
+    border-left: 6px solid rgb(239, 161, 152);
+    border-right: 6px solid rgb(239, 161, 152);
+    border-bottom: 5px solid rgb(239, 161, 152);
     color: white;
     list-style-type: none;
     line-height: 2.8;
@@ -26,16 +26,16 @@ img {
 
 
 #head {
-    border-bottom: 10px double salmon;
+    border-bottom: 10px double rgb(239, 161, 152);
     font-size: 23px;
-    color: salmon;
+    color: rgb(239, 161, 152);
     font-family: cursive;
     margin-top: 0px;
 }
 
 
 .nav-link {  
-    color: white;
+    color: rgb(239, 161, 152);
     font-size: 25px;
     font-family: cursive;
     text-decoration: none;   
@@ -43,7 +43,7 @@ img {
 
 
 #main-doc {
-    color: white;   
+    color:white;   
     padding-left: 50px;
     padding-right: 25px;
     margin-left: 190px;
@@ -55,8 +55,9 @@ h2 {
 }
 
 
-p {
+p, #space {
     font-size: 30px;
+    margin-bottom: 500px;
 }
 
 
@@ -66,10 +67,6 @@ p {
     }
 
     #navbar {
-        border-top: 5px solid salmon;
-        border-bottom: 5px solid salmon;
-        border-left: 6px solid salmon;
-        border-right: 6px solid salmon;
         position: fixed;
         list-style-type: none;
         line-height: 2.1;
@@ -85,10 +82,8 @@ p {
     }
     
     #head {
-        border-bottom: 10px double salmon;
         text-align: left;
         font-size: 120%;
-        color: salmon;
         padding-left: 0px;
         padding-right: 0px;
     }
