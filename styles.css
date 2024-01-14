@@ -42,6 +42,11 @@ img {
 }
 
 
+button {
+    display: none;
+}
+
+
 .nav-link {  
     color: rgb(239, 161, 152);
     font-size: 25px;
@@ -70,11 +75,24 @@ p, #space {
 
 
 @media(max-width: 600px) {
-    body {
-        background-color: black
+    button {
+        display: block;
+        background-color: transparent;
+        border: none;
+        width: auto;
+        cursor: pointer;
     }
 
+    .mobile {
+        background-color: black;
+        height: 5px;
+        width: 35px;
+        margin: 6px 18px;
+    }
+
+
     #navbar {
+        border: none;
         position: fixed;
         list-style-type: none;
         line-height: 2.1;
@@ -86,10 +104,12 @@ p, #space {
 
     img {
         width: 20%;
-        padding-top: 8px;
+        padding-top: 0px;
+        padding-left: 30px;
     }
     
     #head {
+        border: none;
         text-align: left;
         font-size: 120%;
         padding-left: 0px;
@@ -97,7 +117,7 @@ p, #space {
     }
 
     #main-doc {
-        margin-left: 150px;
+        margin-left: 120px;
         padding-right: 10px;
         padding-left: 10px;
     }
