@@ -14,7 +14,7 @@ body {
     line-height: 2.8;
     position: fixed;
     text-align: center;
-    width: 160px;
+    width: 160px; 
 }
 
 
@@ -26,9 +26,9 @@ img {
 }
 
 
-.word {
+.link {
     color: rgb(239, 161, 152);
-    text-decoration: none; 
+    text-decoration: none;
 }
 
 
@@ -45,8 +45,8 @@ img {
 .nav-link {  
     color: rgb(239, 161, 152);
     font-size: 25px;
-    font-family: Arial, Helvetica, sans-serif;
-    text-decoration: none;   
+    font-family: Arial, Helvetica, sans-serif; 
+    text-decoration: none;
 }
 
 
