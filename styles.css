@@ -78,6 +78,7 @@ p, #space {
         cursor: pointer;
     }
 
+
     .mobile {
         background-color: black;
         height: 5px;
@@ -102,12 +103,14 @@ p, #space {
         width: 125px;
     }
 
+
     img {
         width: 20%;
         padding-top: 0px;
         padding-left: 30px;
     }
     
+
     #head {
         border: none;
         text-align: left;
@@ -116,6 +119,7 @@ p, #space {
         padding-right: 0px;
     }
 
+    
     #main-doc {
         margin-left: 120px;
         padding-right: 10px;
