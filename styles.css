@@ -104,16 +104,16 @@ p, #space {
 
     img {
         color: white;
-        width: 20%;
+        width: 40px;
         padding-top: 3px;
-        padding-left: 100px;
+        padding-left: 1px;
+        padding-right: 1px;
     }
     
 
     #head {
         border: none;
-        font-size: 120%;
-        padding-left: 200px;
+        font-size: 15px;
     }
 
     
