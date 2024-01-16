@@ -83,13 +83,13 @@ p, #space {
         background-color: black;
         height: 5px;
         width: 35px;
-        margin: 8px 370px;
+        margin: 8px 490px;
     }
 
 
     #myLink {
         display: none; 
-        padding-left: 235px; 
+        padding-left: 220px; 
         width: 180px;
         font-weight: 1000;
     }
@@ -125,6 +125,6 @@ p, #space {
         padding-top: 1px;
         margin-left: 5px;
         padding-left: 25px;
-        padding-right: 30px;
+        padding-right: 40px;
     }
 }
