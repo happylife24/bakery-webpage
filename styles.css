@@ -94,35 +94,33 @@ p, #space {
 
     #navbar {
         border: none;
-        position: fixed;
-        list-style-type: none;
+        position: relative;
         line-height: 2.1;
         text-align: left;
         font-size: 80%;
         color: white;
-        width: 125px;
     }
 
 
     img {
+        color: white;
         width: 20%;
-        padding-top: 0px;
-        padding-left: 30px;
+        padding-top: 3px;
+        padding-left: 100px;
     }
     
 
     #head {
         border: none;
-        text-align: left;
         font-size: 120%;
-        padding-left: 0px;
-        padding-right: 0px;
+        padding-left: 200px;
     }
 
     
     #main-doc {
-        margin-left: 120px;
+        padding-top: 1px;
+        margin-left: 5px;
+        padding-left: 15px;
         padding-right: 10px;
-        padding-left: 10px;
     }
 }
