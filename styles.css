@@ -83,14 +83,17 @@ p, #space {
         background-color: black;
         height: 5px;
         width: 35px;
-        margin: 6px 22px;
+        margin: 8px 430px;
     }
 
 
     #myLink {
-            display: none;  
+        display: none; 
+        padding-left: 300px; 
+        width: 150px;
     }
 
+        
 
     #navbar {
         border: none;
@@ -105,15 +108,16 @@ p, #space {
     img {
         color: white;
         width: 40px;
-        padding-top: 3px;
-        padding-left: 1px;
-        padding-right: 1px;
+        padding-top: 10px;
+        padding-left: 15px;
+        padding-right: 5px;
     }
     
 
     #head {
         border: none;
         font-size: 15px;
+        height: 10px
     }
 
     
