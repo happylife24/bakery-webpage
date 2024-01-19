@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(to right, rgb(103, 3, 103), rgb(239, 75, 75), rgb(242, 131, 242));
+    background: linear-gradient(to right, rgb(103, 3, 103), #ef4b4b, rgb(242, 131, 242));
     margin-left: 0px;
 }
 
@@ -35,7 +35,7 @@ img {
 #head {
     border-bottom: 10px double rgb(239, 161, 152);
     color: rgb(239, 161, 152);
-    font-size: 23px;
+    font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 2.1;
     margin-top: 0px;   
@@ -53,7 +53,7 @@ img {
 #main-doc {
     color:white; 
     margin-left: 190px;  
-    padding-left: 50px;
+    padding-left: 1px;
     padding-right: 25px;   
 }
 
@@ -70,6 +70,11 @@ p, #space {
 
 
 @media(max-width: 600px) {
+    body {
+        background: linear-gradient(91deg, rgb(103, 3, 103), #ef4b4b);
+    }
+
+
     .btn {
         background-color: transparent;
         border: none;
@@ -82,23 +87,29 @@ p, #space {
     .mobile {
         background-color: black;
         height: 5px;
-        margin: 8px 430px;
-        width: 35px;
+        margin: 8px 400px;
+        width: 45px;
     }
 
 
     #myLink {
         display: none; 
-        font-weight: 1000;
-        padding-left: 190px; 
+        font-weight: 700;
+        padding-top: 30px;
+        padding-left: 180px; 
         width: 180px;  
     }
 
+
+    .nav-link {  
+        color: rgb(245, 213, 213);
+        font-size: 20px;
+    }
         
+
     #navbar {
         border: none;
-        font-size: 80%;
-        line-height: 2.1;
+        line-height: 2;
         position: relative;
         text-align: left;  
     }
@@ -124,16 +135,19 @@ p, #space {
     }
 
 
-    .nav-link {  
-        color: rgb(245, 213, 213);
-    }
-    
-
     #main-doc {
+        font-size: 20px;
         margin-left: 5px;
         padding-top: 1px;        
-        padding-left: 25px;
-        padding-right: 40px;
+        padding-left: 45px;
+        padding-right: 20px;
+    }
+
+
+    p, #space {
+        font-size: 20px;
+        line-height: 2;
+        margin-bottom: 500px;
     }
 }
 
