@@ -135,7 +135,7 @@ p, #space {
         font-size: 20px;
         margin-left: 5px;
         padding-top: 300px;        
-        padding-left: 45px;
+        padding-left: 30px;
         padding-right: 20px;
     }
 
@@ -177,7 +177,7 @@ p, #space {
         font-weight: 1000;
         padding-top: 50px; 
         padding-left: 160px; 
-        width: 180px; 
+        width: 150px; 
     }
 
         
@@ -208,8 +208,7 @@ p, #space {
     #main-doc {
         font-size: 1.5em;
         padding-top: 170px;
-        padding-left: 25px;
-        padding-right: 18px;
+        padding-left: 30px;
         margin-left: 5px;
     }
 }
