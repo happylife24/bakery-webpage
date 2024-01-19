@@ -52,15 +52,16 @@ img {
 
 #main-doc {
     color:white; 
-    margin-left: 190px;  
-    padding-left: 1px;
-    padding-right: 25px;   
+    margin-left: 190px;
+    padding-top: 10px;  
+    padding-left: 20px;
+    padding-right: 20px;   
 }
 
-
+/*
 h2 {
-    padding-top: 30px;
-}
+    padding-top: 0px;
+}*/
 
 
 p, #space {
@@ -138,7 +139,7 @@ p, #space {
     #main-doc {
         font-size: 20px;
         margin-left: 5px;
-        padding-top: 1px;        
+        padding-top: 300px;        
         padding-left: 45px;
         padding-right: 20px;
     }
@@ -155,7 +156,7 @@ p, #space {
 @media(max-width: 400px) {
     body {
         background: linear-gradient(100deg, rgb(103, 3, 103), rgb(239, 75, 75), rgb(242, 131, 242));
-        margin-left: 0px;        
+        margin-left: 0px;  
     }
     
 
@@ -179,8 +180,8 @@ p, #space {
     #myLink {
         display: none; 
         font-weight: 1000;
-        padding-top: 30px; 
-        padding-left: 140px; 
+        padding-top: 50px; 
+        padding-left: 160px; 
         width: 180px; 
     }
 
@@ -191,7 +192,6 @@ p, #space {
         line-height: 2.1;
         position: relative;
         text-align: left;
-        
     }
 
 
@@ -212,7 +212,7 @@ p, #space {
     
     #main-doc {
         font-size: 1.5em;
-        padding-top: 20px;
+        padding-top: 170px;
         padding-left: 25px;
         padding-right: 18px;
         margin-left: 5px;
