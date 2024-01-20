@@ -12,6 +12,8 @@ body {
     color: white;
     list-style-type: none;
     line-height: 2.8;
+    margin-top: 30px;
+    margin-left: 10px;
     position: fixed;
     text-align: center;
     width: 160px; 
@@ -52,16 +54,17 @@ img {
 
 #main-doc {
     color:white; 
+    margin-top: 10px;
     margin-left: 190px;
-    padding-top: 10px;  
-    padding-left: 20px;
+    padding-top: 100px;  
+    padding-left: 30px;
     padding-right: 20px;   
 }
 
 
 p, #space {
-    font-size: 30px;
-    margin-bottom: 500px;
+    font-size: 25px;
+    margin-bottom: 600px;
 }
 
 
