@@ -59,8 +59,15 @@ img {
     font-size: 20px;
     margin-left: 85%;
     margin-top: 37%;
-    padding: 10px 10px;
-    position: fixed; 
+    padding: 3px 3px;
+    position: fixed;
+}
+
+
+.font {
+    font-size: 25px;
+    font-weight: 1000;
+    text-decoration: none; 
 }
 
 
