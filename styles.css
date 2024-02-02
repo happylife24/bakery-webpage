@@ -53,14 +53,12 @@ img {
 
 
 #upBtnTop {
-    #upBtnTop {
-        position: fixed; /* 고정 위치 */
-        bottom: 20px; /* 하단에서 20px 위 */
-        margin-right: 190px; /* 오른쪽에서 30px 왼쪽 */
-        display: none; /* 초기 상태는 보이지 않게 설정 */
-        cursor: pointer; /* 클릭 가능한 커서 모양으로 변경 */
-        /* 추가적으로 버튼 디자인을 위한 스타일을 적용할 수 있습니다. */
-    } 
+    bottom: 100px; 
+    cursor: pointer;
+    display: none;
+    position: fixed; 
+    right: 100px; 
+    z-index: 100; 
 }
 
 
