@@ -196,6 +196,16 @@ p, #space {
         width: 150px; 
     }
 
+
+    #upBtnTop {
+        bottom: 40px; 
+        border: 5px solid green;
+        color: black;
+        font-size: 20px;
+        font-weight: 800;
+        right: 25px; 
+    }
+
         
     #navbar {
         border: none;
