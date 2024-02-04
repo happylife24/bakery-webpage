@@ -10,6 +10,7 @@ body {
     border-right: 6px solid rgb(242, 131, 242);
     border-bottom: 5px solid rgb(242, 131, 242);
     background-color: rgb(242, 131, 242);
+    border-radius: 5px;
     list-style-type: none;
     line-height: 2.8;
     margin-top: 30px;
