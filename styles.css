@@ -5,11 +5,11 @@ body {
 
 
 #navbar {   
-    border-top: 5px solid rgb(239, 161, 152);
-    border-left: 6px solid rgb(239, 161, 152);
-    border-right: 6px solid rgb(239, 161, 152);
-    border-bottom: 5px solid rgb(239, 161, 152);
-    color: white;
+    border-top: 5px solid rgb(242, 131, 242);
+    border-left: 6px solid rgb(242, 131, 242);
+    border-right: 6px solid rgb(242, 131, 242);
+    border-bottom: 5px solid rgb(242, 131, 242);
+    background-color: rgb(242, 131, 242);
     list-style-type: none;
     line-height: 2.8;
     margin-top: 30px;
@@ -29,14 +29,13 @@ img {
 
 
 .link {
-    color: rgb(239, 161, 152);
+    color: rgb(103, 3, 103);
     text-decoration: none;
 }
 
 
 #head {
-    border-bottom: 10px double rgb(239, 161, 152);
-    color: rgb(239, 161, 152);
+    border-bottom: 10px double rgb(103, 3, 103);
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 2.1;
@@ -45,7 +44,7 @@ img {
 
 
 .nav-link {  
-    color: rgb(239, 161, 152);
+    color: rgb(103, 3, 103);
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif; 
     text-decoration: none;
