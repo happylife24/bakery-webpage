@@ -210,6 +210,7 @@ p, #space {
         
     #navbar {
         border: none;
+        background-color: transparent;
         font-size: 80%;
         line-height: 2.1;
         position: relative;
