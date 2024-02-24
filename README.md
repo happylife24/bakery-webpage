@@ -10,6 +10,7 @@ Languages:
    <ul>
      <li>HTML</li>
      <li>CSS</li>
+     <li>JavaScript</li>
      <li>used a media query (max-width: 600px) with a black color background and a resized header for a mobile web.</li>
   </ul>
  <br>
