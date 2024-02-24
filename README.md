@@ -1,6 +1,8 @@
-# BAKERY WEBSITE like TECHNICAL DOCUMENTATION PAGES
+# BAKERY WEBSITE - TECHNICAL DOCUMENTATION PAGES
 Link: https://happylife24.github.io/bakery-webpage/
 <br>
+<br>
+This is a responsive website for mobile and desktop.
 <br>
 <br>
 Languages:
@@ -13,10 +15,7 @@ Languages:
  <br>
  <br>
 Screenshots:
-<br>
 
-<br>
-<br>
 
 
 
