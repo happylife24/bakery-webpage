@@ -1,4 +1,4 @@
-# BAKERY WEBSITE - TECHNICAL DOCUMENTATION PAGES
+# BAKERY WEBSITE - TECHNICAL DOCUMENTATION PAGE
 Link: https://happylife24.github.io/bakery-webpage/
 <br>
 <br>
